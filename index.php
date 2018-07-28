@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Hello This is Dev Op Class Welcome To all of you</h1>
+<h1>Hello today is Biryani Party</h1>
 
 <?php
 echo "version :final";
